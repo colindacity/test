@@ -1,0 +1,73 @@
+date,company,stage,increase,amount,department,role,hidden,showCompany,showStage,showIncrease,showAmount,showRole
+2025-09-14,Harvey AI,Series C,0,0,Engineering,Senior,true,false,true,true,false,true
+2025-09-14,Arm,Public Tech,0,0,Product,Senior Director,true,false,true,true,false,true
+2025-09-12,Google,MAANG,48.83,173000,Engineering,Mid,false,false,true,false,true,true
+2025-09-12,Airbnb,Public Tech,14.94,65000,Product,Staff,false,false,true,false,true,true
+2025-09-08,Meta,MAANG,26.83,117450,Engineering,Staff,false,false,true,false,true,true
+2025-09-02,Onward,Unicorn,32.15,118950,Product,C-level,false,false,true,false,true,true
+2025-08-28,Google,MAANG,52.76,312927.98,Engineering,Principal,false,false,true,false,true,true
+2025-08-21,Meta,MAANG,19.27,113049.29,Engineering,Staff,false,false,true,false,true,true
+2025-08-20,Amazon,MAANG,3.56,14643.46,Sales,Senior Manager,true,false,true,true,false,true
+2025-08-13,Venteur,Unicorn,20.24,69299.07,Product,VP,false,false,true,false,true,true
+2025-08-13,Meta,MAANG,20.24,80921.4,Engineering,Staff,false,false,true,false,true,true
+2025-08-08,Snowflake,Unicorn,10.9,36400,Engineering,Mid,false,false,true,false,true,true
+2025-08-08,Hinge Health,Unicorn,19.72,63350,Product,Senior,false,false,true,false,true,true
+2025-08-06,Symbiotic,Series A,0,0,Engineering,Senior,true,false,true,true,false,true
+2025-08-04,PayPal,Public Tech,39.1,181333.33,Data,Manager,false,false,true,false,true,true
+2025-08-04,Oracle,Big Tech,12.88,38000,Engineering,Senior,false,false,true,false,true,false
+2025-07-31,Customer.io,Series B,19.82,58400,Legal,Director,false,false,true,false,true,true
+2025-07-30,Salesforce,Public Tech,8,15000,Sales,Senior,true,false,true,true,false,true
+2025-07-30,Meta,MAANG,22.25,90100,Engineering,Senior,false,false,true,false,true,true
+2025-07-24,Comulate,Series A,15,45776,Product,Lead,false,false,true,false,true,true
+2025-07-15,Adobe,Public Tech,0,0,Marketing,Senior Manager,true,false,true,true,false,true
+2025-07-11,Meta,MAANG,25.16,43559,Design,Senior,false,false,true,false,true,true
+2025-07-08,Amazon,MAANG,8.85,53036.24,Engineering,Senior,false,false,true,false,true,true
+2025-07-01,DropBox,Public Tech,20.63,125213,Engineering,Senior Manager,false,false,true,false,true,true
+2025-06-30,Netflix,MAANG,2.56,0,Design,Senior,true,false,true,true,false,true
+2025-06-23,Applied Intuition,Series B,12.05,51925,Engineering,Staff,false,false,true,false,true,true
+2025-06-17,Solventum,Public Tech,2.67,0,Engineering,Senior,true,false,true,true,false,true
+2025-06-16,Meta,MAANG,27.24,102600,Engineering,Senior,false,false,true,false,true,true
+2025-06-13,Perplexity,Unicorn,18.15,101875,Data,Director,false,false,true,false,true,true
+2025-05-28,Databricks,Unicorn,5.6,13614.84,Engineering,Senior,true,false,true,true,false,true
+2025-05-28,MongoDB,Public Tech,44.36,155250,Engineering,Staff,false,true,true,false,true,true
+2025-05-27,ElevenLabs,Unicorn,0,0,Sales,Mid,true,false,true,true,false,true
+2025-05-27,Supio,Series A,23.68,45000,Engineering,Senior,false,false,true,false,true,true
+2025-05-15,NY Life,Public Tech,10.42,34950,Engineering,Director,false,false,true,true,false,true
+2025-05-15,Flagship,Series A,5.38,95812,Other,Senior,false,false,true,false,true,true
+2025-05-15,Google,MAANG,6.97,87500,Engineering,Director,false,false,true,false,true,true
+2025-05-13,SciTek,Series A,19.14,98591,Engineering,Senior,false,false,true,false,true,true
+2025-05-12,Omnus,Series A,14.82,95812,Product,C-level,false,false,true,false,true,true
+2025-04-30,Athena,Series B,0,45000,Product,Director,false,false,true,false,true,true
+2025-04-21,Omada,Series E,4.55,34950,Product,Senior,false,false,true,false,true,true
+2025-04-18,ByteDance,Pre-IPO,12.63,36300,Engineering,Senior,false,false,true,true,false,true
+2025-04-16,Uber,Public Tech,9.26,68345,Engineering,Staff,false,true,true,false,true,true
+2025-04-16,Armada AI,Series B,0,0,Marketing,Director,true,false,true,true,false,true
+2025-04-11,HubSpot,Public Tech,40.31,259000,Engineering,Director,false,false,true,false,true,true
+2025-04-09,Qualitate,Series A,18.75,0,Data,Senior,false,false,true,true,false,true
+2025-04-08,Chainalysis,Unicorn,8.89,0,Design,Senior,true,false,true,true,false,true
+2025-04-03,ServiceNow,Public Tech,13.8,75500,Operations,Principal,false,false,true,false,true,true
+2025-03-31,Red Hat,Public Tech,0,94000,Program Management,Director,false,false,true,false,true,true
+2025-03-27,Latent,Series A,20,111280.5,Engineering,VP,false,false,true,false,true,true
+2025-03-27,Wells Fargo,Big Tech,92.53,115845.18,Finance,Senior,false,false,true,false,true,true
+2025-03-25,Lumen,Public Tech,17.22,150333,Operations,SVP,false,false,true,false,true,true
+2025-03-24,Lennar,Public Tech,0,0,Product,VP,true,false,true,true,false,true
+2025-03-24,eBay,Public Tech,14.73,60000,Legal,Senior,false,false,true,false,true,true
+2025-03-13,Amazon,MAANG,18,95812,Product,Senior,false,false,true,false,true,true
+2025-03-10,You.com,Series B,25,0,Operations,C-level,false,false,true,true,false,true
+2025-02-27,Google,MAANG,20.28,132376,Engineering,Staff,false,false,true,false,true,true
+2025-02-27,Diligent Co.,Public Tech,12.18,35750,Engineering,Director,false,false,true,true,false,true
+2025-02-21,Amazon,MAANG,11.16,43278,Product,Senior,false,false,true,false,true,true
+2025-02-18,Figma,Unicorn,14.13,57500,Product,Senior,false,false,true,true,false,true
+2025-02-06,Intuit,Public Tech,12.96,52500,Product,Group,false,false,true,false,true,true
+2025-01-27,Ashby,Series C,11.91,25000,Product,Senior,false,false,true,true,false,true
+2025-01-22,Meta,MAANG,14.68,57250,Engineering,Staff,false,false,true,false,true,true
+2025-01-21,WeatherPromise,Series A,14.29,0,Product,Senior,false,false,true,true,false,true
+2025-01-09,You.com,Series B,25,440000,Other,C-level,false,false,true,false,true,true
+2025-01-09,Expedia,Public Tech,48.86,158825,Product,Director,false,false,true,true,true,true
+2024-12-19,Modern Treasury,Series C,20.49,98591,Operations,Senior Director,false,false,true,false,true,true
+2024-12-10,Great Gray,Series A,0,370000,Engineering,C-level,false,false,true,false,true,true
+2024-12-03,Apple,MAANG,8.95,38800,Marketing,Senior Manager,false,false,true,false,true,true
+2024-11-01,StockX,Unicorn,22.94,107000,Product,Director,false,false,true,false,true,true
+2023-12-15,Coursera,Public Tech,0,120000,Product,Group,false,true,true,false,true,true
+2023-11-20,LiveRamp,Public Tech,0,67000,Engineering,Staff TPM,false,false,true,false,true,true
+2023-10-05,Adobe,Public Tech,0,115000,Product,Principal,false,false,true,false,true,true
